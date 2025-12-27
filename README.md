@@ -21,6 +21,7 @@ Line regulation:
 ![WhatsApp Image 2025-12-27 at 20 03 22](https://github.com/user-attachments/assets/c96afc9b-db13-4366-be9b-0c22b22a97c7)
 
 Load regulation:
+![WhatsApp Image 2025-12-27 at 20 07 05](https://github.com/user-attachments/assets/53c9682c-5177-4b01-8bcc-f1eb015388ae)
 
 
 
